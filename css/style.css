@@ -287,7 +287,6 @@ input {
             "img4 p4";
         justify-items: center;
         align-items: center;
-       ./* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;*/
         row-gap: 40px;
     }
 
@@ -361,13 +360,6 @@ input {
     justify-content: center;
     padding: 25px;
     text-align: center;
-}
-
-.definicion-equivalentes p,
-.metodo-equivalentes p,
-.como-encontrar-equivalentes p,
-.como-encontrar-equivalentes h3 {
-    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;*/
 }
 
 .ej-equivalente {
